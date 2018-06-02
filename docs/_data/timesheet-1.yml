@@ -9,32 +9,59 @@
   time: 2.50
   task: Installatie in de les
 -
-  time: 4.00
+  time: 7.25
   task: Museumbezoek + analyse
 -
-  time: 1.00
+  time: 2.00
   task: Journey map
 -
-  time: 1.00
+  time: 1.50
   task: Research
 -
-  time: 1.00
+  time: 1.75
   task: Concept idee
 -
-  time: 1.00
+  time: 1.25
   task: Elevator pitch voorbereiden
 -
   time: 1.00
   task: Ideaboard
 -
-  time: 6.00
+  time: 8.25
   task: Style Tiles
 -
-  time: 4.25
+  time: 4.00
+  task: Wireflow smartwatch
+-
+  time: 3.25
+  task: Paper prototype
+-
+  time: 2.50
+  task: Gebruikerstesten smartwatch  
+-
+  time: 5.25
+  task: Visual designs smartwatch
+-
+  time: 5.00
   task: Wireflow smartphone
 - 
-  time: 1.75
-  task: Gebruikerstesten
+  time: 2.00
+  task: Gebruikerstesten smartphone
 - 
-  time: 4.00
+  time: 7.25
   task: Visual designs smartphone
+- 
+  time: 0.50
+  task: Sitemap
+-
+  time: 3.75
+  task: Wireframes site
+-
+  time: 8.25
+  task: Visual designs site
+-
+  time: 3.50
+  task: UI style guide
+-
+  time: 4.25
+  task: Productiedossier
