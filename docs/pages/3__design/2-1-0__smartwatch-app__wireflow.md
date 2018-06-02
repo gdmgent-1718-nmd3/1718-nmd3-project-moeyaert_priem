@@ -7,4 +7,4 @@ published: true
 title: Wireflow
 ---
 
-
+![smartwatch wireflow]({{ '/images/smartwatch_wireflow.jpg' | relative_url }}){:width="800px"}

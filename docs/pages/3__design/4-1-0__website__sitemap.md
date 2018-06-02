@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+
+![sitemap]({{ '/images/sitemap.jpg' | relative_url }}){:width="800px"}

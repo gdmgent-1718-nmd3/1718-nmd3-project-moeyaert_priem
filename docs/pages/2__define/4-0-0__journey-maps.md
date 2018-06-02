@@ -10,8 +10,8 @@ title: Journey Maps
 Opportuniteiten:
 ----------------
 
+- Cultuur
 - Oude volks- en kinderspelen
-- Zwarte kat (Aristide)
 - Leerrijk
 - Thema’s zijn verdeeld in kamers
 - Gids in verschillende talen
