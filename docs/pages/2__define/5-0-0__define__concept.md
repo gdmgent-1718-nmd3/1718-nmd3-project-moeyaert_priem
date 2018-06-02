@@ -11,10 +11,10 @@ Bij het museumbezoek hebben we ondervonden dat de cultuur en geschiedenis van Br
 
 - Smartwatch: beacons die geluidsfragmenten van vroeger aanbieden en de mogelijkheid op deze fragmenten op de smartphone op te slaan.
 
-![beacon]({{ '/images/beacon.png' | relative_url }})
+![beacon]({{ '/images/beacon.png' | relative_url }}){:width="250px"}
 
 - App: QR-codes in het museum die beeldfragmenten van vroeger aanbieden en de mogelijkheid om deze fragmenten op jouw persoonlijke account op te slaan.
 
-![qr-code]({{ '/images/qrcode.png' | relative_url }})
+![qr-code]({{ '/images/qrcode.png' | relative_url }}){:width="250px"}
 
 

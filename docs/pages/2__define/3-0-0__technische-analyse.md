@@ -10,7 +10,7 @@ title: Technische Analyse
 
 Apple Watch series 3 
 ---------------------
-![apple watch series 3]({{ '/images/applewatch3.jpeg' | relative_url }})
+![apple watch series 3]({{ '/images/applewatch3.jpeg' | relative_url }}){:width="250px"}
 
 ### Guidelines:
 https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/
@@ -23,7 +23,7 @@ https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/
 
 Apple iPhone 7
 ---------------
-![iphone 7]({{ '/images/iphone7.jpeg' | relative_url }})
+![iphone 7]({{ '/images/iphone7.jpeg' | relative_url }}){:width="250px"}
 
 ### Guidelines:
 https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
