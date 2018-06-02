@@ -13,7 +13,7 @@ Mensen komen het museum bezoeken om een zicht te krijgen van hoe het er vroeger 
 
 Als het museum te ver gelegen is of moeilijk bereikbaar is dan is er minder kans dat ze naar dat museum gaan. Een ander reden kan zijn dat ze van kennissen gehoord hebben dat het een slecht museum is en dan is er ook minder kans dat ze dat museum zouden gaan bezoeken.
 
-Bezoeker1:
+Bezoeker 1:
 ----------
 Waarom ga je naar een museum?
 Er zijn veel dingen dat ik nog niet weet en het is leuk om iets nieuws te leren of te zien in museums.
