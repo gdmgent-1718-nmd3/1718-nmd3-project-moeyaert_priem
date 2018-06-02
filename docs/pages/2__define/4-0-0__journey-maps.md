@@ -7,10 +7,14 @@ published: true
 title: Journey Maps
 ---
 
+![journeymap 1]({{ '/images/journey-map.jpg' | relative_url }}){:width="800px"}
+
+![journeymap 2]({{ '/images/journey-map2.jpg' | relative_url }}){:width="800px"}
+
 Opportuniteiten:
 ----------------
 
-- Cultuur
+- Cultuur en historie
 - Oude volks- en kinderspelen
 - Leerrijk
 - Thema’s zijn verdeeld in kamers
@@ -19,6 +23,7 @@ Opportuniteiten:
 Pijnpunten:
 -----------
 
-- Grote geschreven gids, moeilijk om te nemen tijdens het museum
+- moeilijk bereikbaar
+- Grote gids, moeilijk om te nemen tijdens het museum
 - Kleine kamers en smalle doorgangen, niet geschikt voor grote groepen
-- Weinig interactie
+- Weinig interactie, beperkte beleving
