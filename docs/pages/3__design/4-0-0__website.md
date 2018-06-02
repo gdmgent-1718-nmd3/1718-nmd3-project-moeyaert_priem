@@ -6,3 +6,11 @@ published: true
 # ─────────────────────
 title: Website
 ---
+
+Pages
+-----
+
+- Home
+- Smartphone-app
+- Smartwatch-app
+- Contact

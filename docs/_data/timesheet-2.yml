@@ -3,26 +3,38 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  time: 3.00
+  task: Briefing
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Installatie in de les
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 4.00
+  task: Museumbezoek + analyse
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Journey map
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Research
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Concept idee
 -
+  time: 1.00
+  task: Elevator pitch voorbereiden
+-
+  time: 1.00
+  task: Ideaboard
+-
+  time: 6.00
+  task: Style Tiles
+-
+  time: 4.25
+  task: Wireflow smartphone
+- 
   time: 1.75
-  task: Lorem ipsum sit dolor amet.
--
-  time: 200
-  task: Lorem ipsum sit dolor amet.
+  task: Gebruikerstesten
+- 
+  time: 4.00
+  task: Visual designs smartphone
