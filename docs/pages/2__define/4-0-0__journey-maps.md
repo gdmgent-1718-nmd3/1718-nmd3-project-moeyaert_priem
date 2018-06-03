@@ -7,9 +7,9 @@ published: true
 title: Journey Maps
 ---
 
-![journeymap 1]({{ '/images/journey_map.jpg' | relative_url }}){:width="800px"}
+![journeymap 1]({{ '/images/journey_map.jpg' | relative_url }}){:width="600px"}
 
-![journeymap 2]({{ '/images/journey_map2.jpg' | relative_url }}){:width="800px"}
+![journeymap 2]({{ '/images/journey_map2.jpg' | relative_url }}){:width="600px"}
 
 Opportuniteiten:
 ----------------
