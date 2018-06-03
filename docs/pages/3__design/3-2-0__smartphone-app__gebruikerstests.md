@@ -37,9 +37,6 @@ De knoppen bij de homepage niet maar de rest wel. De buttons bij het inloggen zi
 - **Is het font groot genoeg?**
 Ik heb soms moeite met het lezen van tekst op een beeldscherm omdat ik er iedere dag mee bezig ben, maar het is allemaal goed leesbaar en groot genoeg.  
 
-- **Zijn er nog specifieke opmerkening?**  
-Bij het inloggen is er geen optie beschikbaar voor mensen die hun wachtwoord vergeten zijn.
-
 - **Zie je duidelijk wat het belangrijkste doel is van de app?**
 Ja, het gaat over de historie van Brugge en je moet een soort code scannen om toegang te krijgen tot de ervaringen van het Brugse leven van vroeger.
 
