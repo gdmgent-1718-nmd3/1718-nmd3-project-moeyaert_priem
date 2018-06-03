@@ -14,7 +14,6 @@ Apple watch series 3:
 ![apple watch series 3]({{ '/images/applewatch3.jpeg' | relative_url }}){:width="250px"}
 
 ### Guidelines:
-https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/
 
 - Korte en duidelijke informatie om iets duidelijk te maken
 - Snel en makkelijk zijn voor de gebruiker

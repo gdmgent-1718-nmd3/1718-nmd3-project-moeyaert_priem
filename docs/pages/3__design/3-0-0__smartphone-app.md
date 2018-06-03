@@ -14,7 +14,6 @@ Apple iPhone 7
 ![iphone 7]({{ '/images/iphone7.jpeg' | relative_url }}){:width="250px"}
 
 ### Guidelines:
-https://developer.apple.com/ios/human-interface-guidelines/overview/themes/
 
 - Esthetische integriteit geeft weer hoe goed het uiterlijk en gedrag van een app integreren met zijn functie. 
 - Consistentie: interface-elementen, bekende pictogrammen, standaard tekststijlen en uniforme terminologie.
