@@ -50,4 +50,4 @@ Ik had eerst niet ddoor dat je moest klikken op de beacon, maar door een digital
 - Icon buttons zijn duidelijk
 - Beacon iconen aanduiden met nummers op app en museum
 
-![paper prototype]({{ '/images/paper_prototype.jpg' | relative_url }})
+![paper prototype]({{ '/images/paper_prototype.jpg' | relative_url }}){:width="700px"}
