@@ -6,3 +6,5 @@ published: true
 # ─────────────────────
 title: Kleuren
 ---
+
+![kleuren]({{ '/images/kleuren.jpg' | relative_url }}){:width="800px"}

@@ -2,8 +2,80 @@
 
 h1 {
     color: #CC5350;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin-bottom: 25px;
 }
 
 h2 {
     color: #1C2737;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 50px;
+}
+
+.h1-smartwatch {
+    color: #CC5350;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.h2-smartwatch {
+    color: #FFFFFF;
+    background-color: #1C2737;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+.body-smartwatch {
+    color: #FFFFFF;
+    background-color: #1C2737;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+
+.h1-smartphone {
+    color: #CC5350;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.body-smartphone {
+    color: #FFFFFF;
+    background-color: #1C2737;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+
+
+.btn-vm {
+    color: #CC5350;
+    background-color: #1C2737;
+    border: 2px solid #CC5350;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 100px;
+}
+
+.btn-vm:active {
+    color: white;
+    background-color: #1C2737;
+    border: 2px solid #CC5350;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 100px;
+}
+
+.btn-vm:hover {
+    color: white;
+    background-color: #CC5350;
+    border: 2px solid #CC5350;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding: 10px 100px;
 }

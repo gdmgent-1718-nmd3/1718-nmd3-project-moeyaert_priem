@@ -7,4 +7,12 @@ published: true
 title: Knoppen
 ---
 
-TEST
+[Button](){:.btn-vm}
+
+## Smartwatch
+
+![knoppen smartwatch]({{ '/images/knoppen1.png' | relative_url }}){:width="400px"}
+
+## Smartphone
+
+![knoppen smartphone]({{ '/images/knoppen2.png' | relative_url }}){:width="400px"}
